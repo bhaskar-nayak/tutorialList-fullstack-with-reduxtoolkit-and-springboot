@@ -24,5 +24,4 @@ Project Url :https://iphoneimagine.netlify.app
 - Junit
 - postman
 ## Screenshots
-# user management
-# Registration Form
+
