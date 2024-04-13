@@ -27,4 +27,12 @@ Project Url :https://iphoneimagine.netlify.app
 ##TutorialList page
 "The TutorialList page features a user interface with a form that displays a list of tutorials retrieved from the Spring Boot back-end. The data is fetched using Redux Toolkit's createAsyncThunk and managed in state using createSlice. The application's state is stored in a Redux store, ensuring smooth data flow and consistent state management. Users can easily add, edit, or delete tutorials using the corresponding buttons provided in the UI."
 ![](https://github.com/bhaskar-nayak/tutorialList-fullstack-with-reduxtoolkit-and-springboot/blob/main/Screenshots/Screenshot%20(2).png)
-
+#Add Tutorial
+"The Add Tutorial page allows users to add new tutorials by filling out a form. The form is managed using the useForm hook, which provides an easy way to handle form state and validation. When a user enters information in the form fields, the data is submitted and stored in the MySQL database using the Spring Boot back-end API. This seamless process enables users to add new tutorials quickly and efficiently."
+![](https://github.com/bhaskar-nayak/tutorialList-fullstack-with-reduxtoolkit-and-springboot/blob/main/Screenshots/Screenshot%20(5).png)
+#Edit Tutorial
+"Similarly whatever user want to edit or update by using tutorial Id it can be updated
+![](https://github.com/bhaskar-nayak/tutorialList-fullstack-with-reduxtoolkit-and-springboot/blob/main/Screenshots/Screenshot%20(4).png)
+#Delete Tutorial
+"delete tutorial by id what user want to delete tutorial by id it can be deleted
+![](https://github.com/bhaskar-nayak/tutorialList-fullstack-with-reduxtoolkit-and-springboot/blob/main/Screenshots/Screenshot%20(1).png)
